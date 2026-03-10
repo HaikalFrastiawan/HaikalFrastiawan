@@ -10,10 +10,11 @@ I'm a **Full Stack Developer** focused on building robust, scalable systems.
 ---
 
 ### 📊 GitHub Stats:
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaikalFrastiawan&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalFrastiawan&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaikalFrastiawan&show_icons=true&theme=dark&background=0d1117&title_color=00d166&text_color=ffffff&icon_color=00d166&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalFrastiawan&layout=compact&theme=dark&background=0d1117&title_color=00d166&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
-[Check out my portfolio!](https://haikalfrastiawan.dev)
+[Check out my portfolio!](https://haikal-portfolio-one.vercel.app/)
