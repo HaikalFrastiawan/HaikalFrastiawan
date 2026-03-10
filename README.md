@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d166&height=200&section=header&text=Haikal%20Frastiawan&fontSize=70&animation=fadeIn&fontColor=0d1117" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=HaikalFrastiawan&label=Visitors&color=00d166&style=flat-square" />
-    <img src="https://img.shields.io/badge/Status-Building%20Robust%20Systems-00d166?style=flat-square" />
-  </p>
-
-  ### 👋 Hello, World! I'm Haikal.
+ ### 👋 Hello, World! I'm Haikal.
   **Full Stack Developer | Clean Architecture Enthusiast**
   *Focused on building robust, scalable systems from database to interface.*
 
@@ -15,7 +7,7 @@
 
 ---
 
-### ⚡ Tech Stack (As seen in my portfolio)
+### ⚡ Tech Stack
 
 <table>
   <tr>
@@ -53,7 +45,7 @@
 
 <p align="center">
   <a href="mailto:haikalfrastiawan16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/haikalfrastiawan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/haikal-frastiawan-5b8287277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://haikal-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00d166?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
