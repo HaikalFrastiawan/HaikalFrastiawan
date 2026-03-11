@@ -1,16 +1,23 @@
 <p align="center">
-  <img src="/HaikalFrastiawan/img/Banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/HaikalFrastiawan/HaikalFrastiawan/main/img/Banner.png" width="100%" onerror="this.src='https://via.placeholder.com/800x200?text=Haikal+Frastiawan+Design'"/>
 </p>
 
 <div align="center">
 
 # 👨‍💻 Haikal Frastiawan
-**Backend Engineer | Clean Architecture Enthusiast**
-*Building robust, decoupled, and testable systems.*
+<div align="center">
 
-<a href="https://haikal-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00d166?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> <a href="mailto:haikalfrastiawan16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/haikal-frastiawan-5b8287277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://haikal-portfolio-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00d166?style=for-the-badge&logo=googlechrome&logoColor=white" /></a> <a href="mailto:haikalfrastiawan16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/haikal-frastiawan-5b8287277/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://instagram.com/haikalfrastiawan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
+
+
+**Full Stack Engineer | Clean Architecture Enthusiast**
+*Bridging the gap between complex backend logic and seamless frontend experiences.*
+
+"I don't just build features; I build scalable systems with clean, maintainable code."
+</div>
+
 
 ---
 
@@ -19,7 +26,7 @@
 <div align="center">
 
 **Languages & Frameworks** <br/>
-<img src="https://skillicons.dev/icons?i=go,nodejs,ts,js,react,nextjs,php" />
+<img src="https://skillicons.dev/icons?i=go,nodejs,ts,nest,js,react,nextjs," />
 
 <br/>
 
