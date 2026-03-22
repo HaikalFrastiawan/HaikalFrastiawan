@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HaikalFrastiawan/HaikalFrastiawan/main/img/Banner.png" width="100%" onerror="this.src='https://via.placeholder.com/800x200?text=Haikal+Frastiawan+Design'"/>
-</p>
 
 <div align="center">
 
@@ -12,11 +9,11 @@
 </div>
 
 
-**Full Stack Engineer | Clean Architecture Enthusiast**
-*Bridging the gap between complex backend logic and seamless frontend experiences.*
+**Backend Engineer | Go & NestJS Specialist**
+*Architecting scalable systems with clean, maintainable code.*
 
-"I don't just build features; I build scalable systems with clean, maintainable code."
-</div>
+"I don't just build features; I build performant microservices designed to scale."
+</div
 
 
 ---
@@ -45,11 +42,11 @@
 ### 🏛️ Architecture & Principles
 *Core focus in software engineering:*
 
+- **Microservices Architecture:** Designing decoupled and scalable system components.
 - **Clean Architecture:** Separating Business Logic from Frameworks.
 - **SOLID Principles:** For maintainable and scalable codebases.
-- **RESTful Design:** Standardized and well-documented API development.
-- **Unit Testing:** Ensuring system reliability.
-
+- **RESTful Design & Documentation:** Standardized API development (OpenAPI/Swagger).
+- **Unit Testing:** Ensuring high system reliability and confidence. Ensuring high system reliability and confidence.
 ---
 
 ### 📊 Engineering Metrics
