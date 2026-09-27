@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # 👨‍💻 Haikal Frastiawan
@@ -9,11 +8,11 @@
 </div>
 
 
-**Backend Engineer | Go & NestJS Specialist**
-*Architecting scalable systems with clean, maintainable code.*
+**Backend Engineer | Java & Spring Boot Specialist**
+*Architecting enterprise-grade, scalable systems with clean and resilient code.*
 
-"I don't just build features; I build performant microservices designed to scale."
-</div
+"I don't just build features; I build robust, performant microservices designed to scale."
+</div>
 
 
 ---
@@ -23,7 +22,7 @@
 <div align="center">
 
 **Languages & Frameworks** <br/>
-<img src="https://skillicons.dev/icons?i=go,nodejs,ts,nest,js,react,nextjs," />
+<img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,js,react,nextjs" />
 
 <br/>
 
@@ -33,7 +32,7 @@
 <br/>
 
 **DevOps & Infrastructure** <br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,github,githubactions,postman" />
+<img src="https://skillicons.dev/icons?i=docker,maven,gradle,linux,git,github,githubactions,postman" />
 
 </div>
 
@@ -42,18 +41,16 @@
 ### 🏛️ Architecture & Principles
 *Core focus in software engineering:*
 
-- **Microservices Architecture:** Designing decoupled and scalable system components.
-- **Clean Architecture:** Separating Business Logic from Frameworks.
-- **SOLID Principles:** For maintainable and scalable codebases.
-- **RESTful Design & Documentation:** Standardized API development (OpenAPI/Swagger).
-- **Unit Testing:** Ensuring high system reliability and confidence. Ensuring high system reliability and confidence.
+- **Microservices Architecture:** Designing decoupled, high-availability components using Spring Cloud & Event-Driven systems.
+- **Clean & Hexagonal Architecture:** Separating core business logic from framework dependencies and external adapters.
+- **SOLID Principles:** Building maintainable, extensible, and enterprise-ready codebases.
+- **RESTful Design & Documentation:** Standardized API development using Spring Web and OpenAPI/Swagger.
+- **Unit & Integration Testing:** Ensuring high system reliability using JUnit 5, Mockito, and Testcontainers.
+
 ---
 
 ### 📊 Engineering Metrics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HaikalFrastiawan&show_icons=true&theme=tokyonight&title_color=00d166&text_color=ffffff&icon_color=00d166&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaikalFrastiawan&layout=compact&theme=tokyonight&title_color=00d166&text_color=ffffff&hide_border=true&hide=css,html,blade" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaikalFrastiawan&theme=tokyonight&hide_border=true&stroke=00d166&ring=00d166&fire=00d166&currStreakLabel=00d166" alt="streak stats" />
@@ -66,5 +63,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HaikalFrastiawan/HaikalFrastiawan/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HaikalFrastiawan/HaikalFrastiawan/output/pacman-contribution-graph.svg">
 </picture>
-
-###
